@@ -1,0 +1,8 @@
+#EXTM3U
+#EXTINF:0,Streaming
+#EXTVLCOPT:network-caching=900
+#EXTVLCOPT:sout=#transcode{vcodec=h264,vb=0,scale=0,acodec=mp4a,ab=128,channels=2,samplerate=44100}:file{dst=''}
+7262feebfe6da665db53283c55bf1296b49850ad
+#EXTINF:0,morningstreams.com - Sky Sports F1 HD - 1080p
+#EXTVLCOPT:network-caching=900
+7262feebfe6da665db53283c55bf1296b49850ad
